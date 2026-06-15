@@ -1,0 +1,19 @@
+{
+  "name": "vestcontrol",
+  "version": "1.0.0",
+  "description": "Controle Inteligente para sua Loja de Vestuário Masculino",
+  "main": "index.html",
+  "scripts": {
+    "dev": "start chrome http://localhost:3000 && npx http-server -p 3000"
+  },
+  "keywords": [
+    "vestcontrol",
+    "inventory",
+    "management"
+  ],
+  "author": "Antigravity",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
